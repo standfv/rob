@@ -15,7 +15,7 @@
     "Type": "UNIT_PLACE",
     "Time": "3 0.777977466583252",
     "Rot": 1,
-    "Unit": "Strongest Swordsman",
+    "Unit": "Sword Grandmaster",
     "Pos": "-1670.8387451171875, 26.87122344970703, -528.4219360351562"
   },
   "5": {
@@ -30,7 +30,7 @@
     "Type": "UNIT_PLACE",
     "Time": "4 7.732745170593262",
     "Rot": 1,
-    "Unit": "Strongest Swordsman",
+    "Unit": "Sword Grandmaster",
     "Pos": "-1671.0272216796875, 26.87122344970703, -536.0314331054688"
   },
   "8": {
@@ -41,14 +41,14 @@
     "Type": "UNIT_PLACE",
     "Time": "6 2.244516372680664",
     "Rot": 1,
-    "Unit": "Strongest Swordsman",
+    "Unit": "Sword Grandmaster",
     "Pos": "-1662.8897705078125, 26.87122344970703, -536.4082641601562"
   },
   "10": {
     "Type": "UNIT_PLACE",
     "Time": "6 5.041351556777954",
     "Rot": 1,
-    "Unit": "Strongest Swordsman",
+    "Unit": "Sword Grandmaster",
     "Pos": "-1662.575927734375, 26.87122344970703, -528.8971557617188"
   },
   "11": {
@@ -78,7 +78,7 @@
     "Type": "UNIT_PLACE",
     "Time": "7 11.292365550994873",
     "Rot": 1,
-    "Unit": "Strongest Swordsman",
+    "Unit": "Sword Grandmaster",
     "Pos": "-1663.116455078125, 26.87122344970703, -540.2156372070312"
   },
   "17": {
